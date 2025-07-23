@@ -1,0 +1,17 @@
+{
+  "api_id": "ВАШ_API_ID",
+  "api_hash": "ВАШ_API_HASH",
+  "telegram_channel": "username_or_id",
+  "discord_webhook_url": "ВАШ_DISCORD_WEBHOOK_URL",
+  "embed": {
+    "title": "Заголовок сообщения",
+    "color": 5814783,
+    "author": {
+      "name": "Telegram Channel",
+      "icon_url": "https://telegram.org/img/t_logo.png"
+    },
+    "footer": {
+      "text": "Forwarded by telegram2discord"
+    }
+  }
+} 
